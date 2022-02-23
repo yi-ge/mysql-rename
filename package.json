@@ -13,5 +13,8 @@
     "js-camelcase": "^1.1.1",
     "js-pascalcase": "^1.2.1",
     "mysql2": "^2.3.3"
+  },
+  "engines": {
+    "node": ">=17.6.0"
   }
 }
