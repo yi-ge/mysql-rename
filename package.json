@@ -1,0 +1,17 @@
+{
+  "name": "mysql-rename",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:yi-ge/mysql-rename.git",
+  "author": "yi-ge <a@wyr.me>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "js-camelcase": "^1.1.1",
+    "js-pascalcase": "^1.2.1",
+    "mysql2": "^2.3.3"
+  }
+}
